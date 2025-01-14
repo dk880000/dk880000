@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dmytro Kulbachnyi
 - 👀 I’m interested in RF and hardware design
-- 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on Anti Drone Projects 
 - 📫 How to reach me: mail dk880000@gmail.com
 
